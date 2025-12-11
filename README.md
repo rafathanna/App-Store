@@ -1,4 +1,4 @@
-# 🛍️ App Store – Modern React Application
+# 🛍️   Ecommerce – Modern React Application
 
 A modern and responsive App Store built with **React.js** and **Vite**, offering a clean UI, high performance, and professional code structure.  
 This project is suitable for portfolios, production-level apps, and scalable architectures.
